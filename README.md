@@ -38,7 +38,7 @@ Mas agora o seu prato tem tanta coisa e tantos sabores que você se arrepende de
 
 > Afinal o que é o GIT?
 - O git é um sistema de controle de versão distribuída. 
-- Ele rastreia as alterações que foram feitas para que você tem um registro do que você tinha anteriormente.. então ai você consegue reverter essas versões. 
+- Ele rastreia as alterações que foram feitas para que você tenha um registro do que você tinha anteriormente.. então ai você consegue reverter essas versões. 
 - Ele também facilita na colaboração, permitindo que outras pessoas da sua equipe contribuam e no final elas são mescladas em uma só fonte.
 
 > Referente a colaboração: 
